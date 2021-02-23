@@ -11,7 +11,7 @@
       "type": "Feature",
       "properties": {
         "cvegeo": 9010,
-        "municipio": "ALVARO OBREGON"
+        "municipio": "Alvaro Obregon"
       },
       "geometry": {
         "type": "Polygon",
@@ -3050,7 +3050,7 @@
       "type": "Feature",
       "properties": {
         "cvegeo": 9002,
-        "municipio": "AZCAPOTZALCO"
+        "municipio": "Azcapotzalco"
       },
       "geometry": {
         "type": "Polygon",
@@ -3507,7 +3507,7 @@
       "type": "Feature",
       "properties": {
         "cvegeo": 9014,
-        "municipio": "BENITO JUAREZ"
+        "municipio": "Benito Juarez"
       },
       "geometry": {
         "type": "Polygon",
@@ -3890,7 +3890,7 @@
       "type": "Feature",
       "properties": {
         "cvegeo": 9003,
-        "municipio": "COYOACAN"
+        "municipio": "Coyoacan"
       },
       "geometry": {
         "type": "Polygon",
@@ -5017,7 +5017,7 @@
       "type": "Feature",
       "properties": {
         "cvegeo": 9004,
-        "municipio": "CUAJIMALPA"
+        "municipio": "Cuajimalpa"
       },
       "geometry": {
         "type": "Polygon",
@@ -9028,7 +9028,7 @@
       "type": "Feature",
       "properties": {
         "cvegeo": 9006,
-        "municipio": "IZTACALCO"
+        "municipio": "Iztacalco"
       },
       "geometry": {
         "type": "Polygon",
@@ -9443,7 +9443,7 @@
       "type": "Feature",
       "properties": {
         "cvegeo": 9007,
-        "municipio": "IZTAPALAPA"
+        "municipio": "Iztapalapa"
       },
       "geometry": {
         "type": "Polygon",
@@ -13442,7 +13442,7 @@
       "type": "Feature",
       "properties": {
         "cvegeo": 9009,
-        "municipio": "MILPA ALTA"
+        "municipio": "Milpa Alta"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -15431,7 +15431,7 @@
       "type": "Feature",
       "properties": {
         "cvegeo": 9011,
-        "municipio": "TLAHUAC"
+        "municipio": "Tlahuac"
       },
       "geometry": {
         "type": "MultiPolygon",
@@ -16870,7 +16870,7 @@
       "type": "Feature",
       "properties": {
         "cvegeo": 9012,
-        "municipio": "TLALPAN"
+        "municipio": "Tlapan"
       },
       "geometry": {
         "type": "Polygon",
@@ -21648,7 +21648,7 @@
       "type": "Feature",
       "properties": {
         "cvegeo": 9013,
-        "municipio": "XOCHIMILCO"
+        "municipio": "Xochimilco"
       },
       "geometry": {
         "type": "Polygon",
